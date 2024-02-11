@@ -1,0 +1,20 @@
+h1{
+    color: red;
+}
+
+li{
+    list-style: none;
+}
+.next{
+    padding: 23px;
+}
+
+button, input{
+    border-radius: 12px;
+    padding: 12px;
+    margin: 12px;
+}
+
+input{
+    font-size: 17px;
+}
